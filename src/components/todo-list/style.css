@@ -1,0 +1,41 @@
+div.list-wrapper {
+    background: #ecf0f1;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+}
+
+div.list-wrapper ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+div.list-wrapper ul li {
+    background: white;
+    border-radius: 5px;
+    margin: 5px 0 5px 0;
+}
+
+input, button {
+    font-size: 15px;
+    padding: 5px;
+    border: none;
+}
+
+input[type="text"] {
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+footer {
+    padding: 10px 0 10px 0;
+}
+
+button {
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background: #2ecc71;
+    color: white;
+}

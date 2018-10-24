@@ -1,0 +1,3 @@
+[submodule "src/modules/core"]
+	path = src/modules/core
+	url = git@github.com:kadoshms/todo-list-core.git

@@ -1,0 +1,14 @@
+div.item {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.item.completed span {
+    text-decoration: line-through;
+}
+
+i.fa-trash:hover {
+    color: #e74c3c;
+    cursor: pointer;
+}
